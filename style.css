@@ -8,11 +8,11 @@ body{
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background-color:#9c2533;
+    background-color:#ffedbb;
 }
 
 .container{
-    background-color: #f7b7ab;
+    background-color: #cec87c;
     padding: 2rem;
     border-radius: 1rem;
     min-height: 45vh;
